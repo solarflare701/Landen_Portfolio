@@ -1,3 +1,5 @@
+ ![](images.jpg)
+
 # Psychotherapist
 
 ### About Me 
@@ -11,7 +13,7 @@ My robust skill set, commitment to integrity, and passion for counseling make me
 You can find me on [Instagram](https://www.instagram.com/landencahill701/) or [Twitter](https://x.com/solarflare701)
 
 ### Education 
-BSc in Psychology
+BS in Psychology
 Loyola University, MD
 
 ### Projects
