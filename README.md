@@ -12,6 +12,8 @@ My robust skill set, commitment to integrity, and passion for counseling make me
 
 You can find me on [Instagram](https://www.instagram.com/landencahill701/) or [Twitter](https://x.com/solarflare701)
 
+![](psychologytoday-150x150.jpg)
+
 ### Education 
 BS in Psychology
 Loyola University, MD
