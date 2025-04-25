@@ -19,15 +19,15 @@ Loyola University, MD
 ### Projects
 
 #### Personality Test
- - image
+![](Screenshot 2025-04-25 at 2.14.39 PM.png)
  - Report
 
 ***
 #### Grade Calculator
- - image
+![](Screenshot 2025-04-25 at 2.15.22 PM.png)
  - write up
 
 ***
 #### Budget Tracker
- - image
+![](Screenshot 2025-04-25 at 2.15.33 PM.png)
  - write up
